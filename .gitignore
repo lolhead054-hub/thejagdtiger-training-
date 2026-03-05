@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Common development files
+*.log
+*.tmp
+.DS_Store
+coverage/
+Thumbs.db
